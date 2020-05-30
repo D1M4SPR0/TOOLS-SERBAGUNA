@@ -52,7 +52,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/D1M4SPR0/SPAMSMS-ID/blob/master/spammer.py
+git clone https://github.com/D1M4SPR0/SPAMSMS-ID
 cd SPAMSMS-ID
 python2 spammer.py
 fi
